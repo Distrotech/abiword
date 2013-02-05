@@ -31,7 +31,7 @@
 
 #include <glib.h>
 #include <gsf/gsf.h>
-#include <glib/gerror.h>
+#include <glib.h>
 #include <time.h>
 
 G_BEGIN_DECLS
